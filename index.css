@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 body {
     background-color: #EFA3C8;
     font-family: 'Neucha', cursive;
@@ -10,4 +14,9 @@ body {
 
 .mb-bottom {
     margin-bottom: 10rem;
+}
+
+.mx-loading {
+    margin-top: 20rem;
+    margin-bottom: 20rem;
 }
