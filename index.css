@@ -1,0 +1,13 @@
+body {
+    background-color: #EFA3C8;
+    font-family: 'Neucha', cursive;
+    color: white;
+}
+
+.pt-max {
+    padding-top: 1000rem;
+}
+
+.mb-bottom {
+    margin-bottom: 10rem;
+}
